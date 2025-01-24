@@ -13,3 +13,4 @@ build-mode = "both"
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 build-mode = "both"
+dpi = "120-640dpi"
