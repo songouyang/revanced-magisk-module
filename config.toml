@@ -7,6 +7,7 @@ parallel-jobs = 2
 # you can use rvmm-config-gen to generate a config
 
 [Reddit]
+enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 build-mode = "both"
 apkmirror-dpi = "120-640dpi"
