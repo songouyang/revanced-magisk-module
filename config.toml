@@ -8,8 +8,10 @@ parallel-jobs = 2
 
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
-dpi = "120-640dpi"
+build-mode = "both"
+apkmirror-dpi = "120-640dpi"
 
 [Twitter]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
-dpi = "120-640dpi"
+apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+build-mode = "both"
+apkmirror-dpi = "120-640dpi"
